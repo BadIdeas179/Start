@@ -1,0 +1,3 @@
+# Try to input...
+a=int(input())
+print(a+5)

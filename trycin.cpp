@@ -5,4 +5,4 @@ int main(){
   int a;
   cin >> a;
   cout << a + 5;
-}
+} // Yeah!

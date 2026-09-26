@@ -1,2 +1,2 @@
 // Try open JavaScript..
-alert("Hello, World!")
+console.log("Hello, World!")
